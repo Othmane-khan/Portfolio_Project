@@ -6,12 +6,6 @@
 
 “ELEARN” aims to revolutionize the learning experience by providing a centralized platform for students to access their academic progress, lessons, resources, and upcoming school events with ease. This initiative seeks to simplify the learning process by offering a user-friendly interface that streamlines access to vital information. Through this hub, students can efficiently monitor their academic journey, access educational materials, and stay updated on school events.
 
-# Live Demo
-
-[Landing Page](https://elearn-platform.netlify.app/)
-
-[Login Page](https://elearn-login.netlify.app/)
-
 # Key Features
 
 ELEARN offers a comprehensive set of features designed to streamline the learning experience for students, empower teachers with effective teaching tools, and provide administrators with robust management capabilities. From user management to resource access, our platform is built to enhance collaboration, communication, and educational outcomes. Explore the key features below:
