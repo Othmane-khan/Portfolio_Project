@@ -17,7 +17,9 @@ ELEARN addresses the complexities of traditional learning management systems by 
 ### Problem Trying to Solve
 
 This project is a student Intranet platform dedicated to students, will make accessing their academic Progress, Lessons, Resources and also upcoming events in their school with ease.
-
+# Demo
+Login-Page https://othka.netlify.app/login-page/
+Landin-Page  https://othka.netlify.app/landing-page/
 # Team
 
 - **KHANOUS Othmane** - Back-end Developer, Repository Management, UI/UX Designer
